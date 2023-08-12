@@ -1,0 +1,21 @@
+<svg width="195" height="238" viewBox="0 0 195 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Stars" clip-path="url(#clip0_842_17195)">
+<path id="Vector 390" d="M23 44.7632C34.5655 45.2524 57.2179 36.8863 55.3036 -0.492188C56.7393 15.3268 57.4571 44.7632 90 46.9648C65.1143 46.9648 55.3036 53.9121 55.3036 90.5078C55.2238 75.2596 48.6514 44.7632 23 44.7632Z" stroke="url(#paint0_linear_842_17195)" stroke-width="2" stroke-linejoin="round"/>
+<path id="Vector 391" d="M121 89.3575C127.905 89.6425 141.429 84.7699 140.286 63C141.143 72.2133 141.571 89.3575 161 90.6398C146.143 90.6398 140.286 94.686 140.286 116C140.238 107.119 136.314 89.3575 121 89.3575Z" stroke="url(#paint1_linear_842_17195)" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_842_17195" x1="82.0449" y1="45.0078" x2="23" y2="45.0078" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEBD81"/>
+<stop offset="0.489583" stop-color="#FFE598"/>
+<stop offset="1" stop-color="#BFF4A6"/>
+</linearGradient>
+<linearGradient id="paint1_linear_842_17195" x1="156.251" y1="89.5" x2="121" y2="89.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEBD81"/>
+<stop offset="0.489583" stop-color="#FFE598"/>
+<stop offset="1" stop-color="#BFF4A6"/>
+</linearGradient>
+<clipPath id="clip0_842_17195">
+<rect width="195" height="238" fill="white"/>
+</clipPath>
+</defs>
+</svg>
