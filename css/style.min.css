@@ -542,8 +542,7 @@ h3 {
 .journey__title img {
   position: absolute;
   top: 0;
-  right: 0;
-  transform: translate(100%, 0);
+  right: -12.1875rem;
 }
 .journey__body {
   display: flex;
